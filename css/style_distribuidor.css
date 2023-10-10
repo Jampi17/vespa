@@ -1,0 +1,34 @@
+.c-head{
+    /*
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/distribuidor/hero_img_access_page_2840a-scaled.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;*/
+    
+    text-align: center;
+    color: #fff;
+    background-image: linear-gradient(#000, rgba(0, 0, 0, 0.5)), url(../assets/img/distribuidor/hero_img_access_page_2840a-scaled.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    transition: background 0.3s,border-radius 0.3s,opacity 0.3s;
+    background-position: center center;    
+    background-repeat: repeat;
+  }
+  .c-title-1{
+    margin-top: 6%;
+    color: #E3E3E3;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+  }
+  .c-subtitle-1{
+    
+    color: #FFF;
+    font-family: "Rajdhani",Sans-serif;
+    font-size: 65px;
+  }

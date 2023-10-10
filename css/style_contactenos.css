@@ -1,0 +1,65 @@
+
+.c-head{
+    text-align: center;
+    color: #fff;
+    background-image: linear-gradient(#000, rgba(0, 0, 0, 0.5)), url(https://vespa-colombia.com/wp-content/uploads/2021/01/vespa-secccion-2.png);
+    background-attachment: scroll;
+    background-size: cover;
+    transition: background 0.3s,border-radius 0.3s,opacity 0.3s;
+    background-position: -438px -0px;
+    background-repeat: repeat;
+    }
+    .c-title-1{
+      
+      color: #E3E3E3;
+      font-size: 15px;
+      font-weight: 300;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+  
+    }
+    .c-subtitle-1{
+      
+      color: #FFF;
+      font-family: "Rajdhani",Sans-serif;
+      font-size: 65px;
+    }
+  
+    .cl-pstventa-tittle_item_section2 {
+     
+      background: #0371AD;
+      color: white;
+      text-align: center;
+      margin-top: 4%;
+  }
+  
+.c-sub-access {
+  color: #6DCDB1;
+  font-family: "Raleway",Sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+}
+
+@media (max-width: 2560px) and (min-width: 1440px) {}
+
+/*laptop L*/
+@media (max-width: 1440px) and (min-width: 1024px) {}
+
+/*laptop */
+@media (max-width: 1024px)and (min-width: 768px) {}
+
+/* tablet */
+@media (max-width: 768px)and (min-width: 450px) {
+  .c-sub-access {
+    font-size: 34px!important;
+}
+}
+
+/* movil L:425; movil L:375;movil :320;   */
+@media (max-width: 450px)and (min-width: 320px) {
+    .c-sub-access {
+        font-size: 30px!important;
+    }
+
+}

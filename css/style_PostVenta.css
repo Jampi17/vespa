@@ -1,0 +1,33 @@
+.c-head{
+  text-align: center;
+  color: #fff;
+  background-image: linear-gradient(#000, rgba(0, 0, 0, 0.5)), url(../assets/img/PostVenta/vespa-sei-giorni-my19-5.jpg);
+  background-attachment: scroll;
+  background-size: cover;
+  transition: background 0.3s,border-radius 0.3s,opacity 0.3s;
+  background-position: -438px -0px;
+  background-repeat: repeat;
+  }
+  .c-title-1{
+    
+    color: #E3E3E3;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+  }
+  .c-subtitle-1{
+    
+    color: #FFF;
+    font-family: "Rajdhani",Sans-serif;
+    font-size: 65px;
+  }
+
+  .cl-pstventa-tittle_item_section2 {
+   
+    background: #0371AD;
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+}

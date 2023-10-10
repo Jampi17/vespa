@@ -1,0 +1,96 @@
+.c-vespaxl150-t_sub2_1 {
+    font-size: 21px;
+    letter-spacing: 4px;
+    color: #FFF;
+    top: 1px;
+    position: relative;
+    font-weight: 600;
+    font-family: 'ROBOTO';
+}
+
+.c-vespaxl150-t_sub2_2 {
+    color: #000;
+    font-family: 'Raleway', Sans-serif;
+    font-size: 37px;
+    font-weight: 900;
+    letter-spacing: -1.5px;
+}
+
+.c-vespaxl150-t_sub2_3 {
+    color: #FFF;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 1.4em;
+}
+
+.c-vespaxl150-t_secEspTec-1 {
+    font-size: 12px;
+    letter-spacing: 4px;
+    color: #fff;
+    top: 1px;
+    position: relative;
+    font-weight: 600;
+    font-family: 'pOPPINS';
+}
+
+.c-vespaxl150-t_secEspTec-2 {
+    color: #40B4E5;
+    font-family: 'Raleway', Sans-serif;
+    font-size: 43px;
+    font-weight: 900;
+    letter-spacing: -1.5px;
+}
+
+.c-vespaxl150-t_secEspTec-btn-2 {
+    font-family: 'Poppins', Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1.4px;
+    background-color: #40B4E5;
+    border-radius: 26px 26px 26px 26px;
+    border: 1px solid #40B4E5;
+}
+.c-vespaxl150-t_secEspTec-3_tittle{
+    color: #40B4E5;
+    font-family: "Raleway",Sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    letter-spacing: 0;
+}
+.c-vespaxl150-t_secEspTec-3_subtittle{
+    font-size: 12px;
+    letter-spacing: 0px;
+    color: #000;
+    bottom: 0px;
+    position: relative;
+    font-weight: 300;
+    font-family: "Raleway",Sans-serif;
+    letter-spacing: 0;
+}
+
+  /*4k*/
+@media (max-width: 2560px) and (min-width: 1440px) {
+    
+  }
+  /*laptop L*/
+  @media (max-width: 1440px) and (min-width: 1024px) {
+   
+  }
+  
+  /*laptop */
+  @media (max-width: 1024px)and (min-width: 768px) {
+   
+  
+  }
+  
+  /* tablet */
+  @media (max-width: 768px)and (min-width: 450px) {
+   
+  }
+  
+  /* movil L:425; movil L:375;movil :320;   */
+  @media (max-width: 450px)and (min-width: 320px) {
+    .c-vespaxl150-t_secEspTec-2 {
+        font-size: 100%;
+    }
+  }

@@ -1,0 +1,40 @@
+.c-head {
+  /* padding-top: 10.5rem;
+    padding-bottom: 6rem;*/
+  text-align: center;
+  color: #fff;
+  background-image: url("../assets/img/Noticias/gts_touring_1920x800-1.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+.c-title-1 {
+
+  color: #E3E3E3;
+  font-size: 15px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+
+}
+
+.c-subtitle-1 {
+
+  color: #FFF;
+  font-family: "Rajdhani", Sans-serif;
+  font-size: 65px;
+}
+
+.cl-section1 {
+  background-color: #0000;
+  background-image: url(../assets/img/Noticias/gts_touring_1920x800-1.png);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin-top: 5%;
+  margin-bottom: 0;
+  padding: 23% 0% 17% 0%;
+}
