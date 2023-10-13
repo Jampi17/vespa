@@ -1,8 +1,8 @@
 $(document).ready(function () {
 
-    var lst_color_precio_primavera_150=new Array();
+    var lst_color_precio_primavera_1502=new Array();
     
-    lst_color_precio_primavera_150=[{"Nombre":"RED R7 (894)-$7,400.00","Precio":"$7,400.00","color":"red"},
+    lst_color_precio_primavera_1502=[{"Nombre":"RED R7 (894)-$7,400.00","Precio":"$7,400.00","color":"red"},
          {"Nombre":"ARANCIO COLOR VIBE A11-$7,950.00","Precio":"$7,950.00","color":"#FFA500"},
          {"Nombre":"BIANCO COLOR VIBE B04-$7,950.00","Precio":"$7,950.00","color":"#fff"},
          {"Nombre":"BIANCO INNOCENTE BR (544)-$7,990.00","Precio":"$7,990.00","color":"#FFFFFF"},
@@ -10,12 +10,12 @@ $(document).ready(function () {
          {"Nombre":"VERDE AMABILE VK (350/A)-$7,990.00","Precio":"$7,990.00","color":"green"},
          {"Nombre":"BLU ENERGICO DK (289/A)-$7,990.00","Precio":"$7,990.00","color":"blue"},
          {"Nombre":"GRIGIO DELICATO GLOSSY G01-$7,990.00","Precio":"$7,990.00","color":"#808080"}]
-         lst_color_precio_primavera_150(lst_color_precio_primavera_150);
+        
+        lst_color_precio_primavera_150(lst_color_precio_primavera_1502);
     
-    });
+});
     
     function lst_color_precio_primavera_150(registros) {
-    
         var html = "";
         $("#lst_color_precio_primavera_150").empty();
         $.each(registros, function (d, a) {
